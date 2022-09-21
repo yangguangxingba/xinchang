@@ -2,7 +2,7 @@
 const qs = window.Qs;
 
 // title
-const title = "交投大脑·总看版";
+const title = "新昌项目·总看版";
 document.title = title;
 
 
